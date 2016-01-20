@@ -1,7 +1,7 @@
 # Structuring Your Readme
 
-“It is not a recitation of facts, but the building of an argument.”
-            -Molly Worthen
+*“It is not a recitation of facts, but the building of an argument.”*
+            *-Molly Worthen*
 
 ## It’s All About the Story
 
